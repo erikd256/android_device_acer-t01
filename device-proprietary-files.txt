@@ -174,7 +174,6 @@ etc/xtra_root_cert.pem
 etc/xtwifi.conf
 lib/libloc_api_v02.so
 lib/libloc_ds_api.so
--priv-app/com.qualcomm.location/com.qualcomm.location.apk
 vendor/lib/hw/flp.default.so
 vendor/lib/libasn1cper.so
 vendor/lib/libasn1crt.so
@@ -245,8 +244,6 @@ vendor/lib/libsmemlog.so
 vendor/lib/libsubsystem_control.so
 
 # RIL
--app/qcrilmsgtunnel/qcrilmsgtunnel.apk
--app/shutdownlistener/shutdownlistener.apk
 bin/netmgrd
 bin/qmuxd
 bin/radish
@@ -254,8 +251,6 @@ bin/rild
 bin/rmt_storage
 etc/permissions/qcnvitems.xml
 etc/permissions/qcrilhook.xml
--framework/qcnvitems.jar
--framework/qcrilhook.jar
 lib/libril.so
 lib/librmnetctl.so
 vendor/lib/libconfigdb.so
@@ -280,7 +275,6 @@ vendor/lib/libthermalclient.so
 vendor/lib/libthermalioctl.so
 
 # Time services
--app/TimeService/TimeService.apk
 bin/time_daemon
 vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so

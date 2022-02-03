@@ -1,0 +1,8 @@
+/dev/block/mmcblk0p1 /modem vfat rw
+/dev/block/mmcblk0p21 /system ext4 rw
+/dev/block/mmcblk0p22 /persist ext4 rw
+/dev/block/mmcblk0p23 /cache ext4 rw
+/dev/block/mmcblk0p29 /data ext4 rw
+/dev/block/mmcblk1p1 /external_sd vfat rw
+/dev/block/mmcblk0p20 /boot
+/usbotg auto rw
